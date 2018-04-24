@@ -1,2 +1,2 @@
-# TWRP_Samsung_gtelwifi
-TWRP device tree for Samsung SM-T560/561
+# TWRP_Samsung_gtel3g
+TWRP device tree for Samsung SM-T561
